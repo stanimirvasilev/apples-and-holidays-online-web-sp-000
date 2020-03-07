@@ -101,7 +101,7 @@ def all_holidays_with_bbq(holiday_hash)
         new_array = []
         new_array << holiday_second
     #binding.pry
-       new_array
+      puts new_array
       end
     end
  end
