@@ -100,12 +100,11 @@ def all_holidays_with_bbq(holiday_hash)
       
       if value.include?("BBQ")
         new_array << holiday_second
-    #binding.pry
      
       end
        
     end
- end
+  end
  new_array
 end
   
